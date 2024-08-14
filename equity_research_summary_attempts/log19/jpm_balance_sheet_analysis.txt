@@ -1,0 +1,70 @@
+Balance sheet:
+2023-12-31       2022-12-31       2021-12-31       2020-12-31     2019-12-31
+Treasury Shares Number                           1228275301.0     1170676094.0     1160784750.0     1055499435.0            NaN
+Preferred Shares Number                           391850000.0      391850000.0      391850000.0      280850000.0            NaN
+Ordinary Shares Number                           2876658594.0     2934257801.0     2944149145.0     3049434460.0            NaN
+Share Issued                                     4104933895.0     4104933895.0     4104933895.0     4104933895.0            NaN
+Net Debt                                                  NaN              NaN              NaN              NaN  68787000000.0
+Total Debt                                     436537000000.0   339892000000.0   354599000000.0   326893000000.0            NaN
+Tangible Book Value                            236093000000.0   204069000000.0   202598000000.0   195863000000.0            NaN
+Invested Capital                               737011000000.0   604820000000.0   613888000000.0   576184000000.0            NaN
+Net Tangible Assets                            263497000000.0   231473000000.0   237436000000.0   225926000000.0            NaN
+Common Stock Equity                            300474000000.0   264928000000.0   259289000000.0   249291000000.0            NaN
+Preferred Stock Equity                          27404000000.0    27404000000.0    34838000000.0    30063000000.0            NaN
+Total Capitalization                           719703000000.0   588197000000.0   595132000000.0   561039000000.0            NaN
+Total Equity Gross Minority Interest           327878000000.0   292332000000.0   294127000000.0   279354000000.0            NaN
+Stockholders Equity                            327878000000.0   292332000000.0   294127000000.0   279354000000.0            NaN
+Other Equity Interest                                     NaN              NaN              NaN              NaN    -21000000.0
+Gains Losses Not Affecting Retained Earnings   -10443000000.0   -17341000000.0      -84000000.0     7986000000.0            NaN
+Other Equity Adjustments                       -10443000000.0   -17341000000.0      -84000000.0     7986000000.0            NaN
+Treasury Stock                                 116217000000.0   107336000000.0   105415000000.0    88184000000.0            NaN
+Retained Earnings                              332901000000.0   296456000000.0   272268000000.0   236990000000.0            NaN
+Additional Paid In Capital                      90128000000.0    89044000000.0    88415000000.0    88394000000.0            NaN
+Capital Stock                                   31509000000.0    31509000000.0    38943000000.0    34168000000.0            NaN
+Common Stock                                     4105000000.0     4105000000.0     4105000000.0     4105000000.0            NaN
+Preferred Stock                                 27404000000.0    27404000000.0    34838000000.0    30063000000.0            NaN
+Total Liabilities Net Minority Interest       3547515000000.0  3373411000000.0  3449440000000.0  3105403000000.0            NaN
+Long Term Debt And Capital Lease Obligation    391825000000.0   295865000000.0   301005000000.0   281685000000.0            NaN
+Long Term Debt                                 391825000000.0   295865000000.0   301005000000.0   281685000000.0            NaN
+Current Debt And Capital Lease Obligation       44712000000.0    44027000000.0    53594000000.0    45208000000.0            NaN
+Current Debt                                    44712000000.0    44027000000.0    53594000000.0    45208000000.0            NaN
+Other Current Borrowings                        44712000000.0    44027000000.0    53594000000.0    45208000000.0            NaN
+Commercial Paper                                          NaN              NaN              NaN    12031000000.0  14754000000.0
+Payables And Accrued Expenses                  317954000000.0   339982000000.0   303071000000.0   294208000000.0            NaN
+Payables                                       317954000000.0   339982000000.0   303071000000.0   294208000000.0            NaN
+Other Payable                                  155994000000.0   151290000000.0   133899000000.0   153917000000.0            NaN
+Accounts Payable                               161960000000.0   188692000000.0   169172000000.0   140291000000.0            NaN
+Total Assets                                  3875393000000.0  3665743000000.0  3743567000000.0  3384757000000.0            NaN
+Investments And Advances                       973946000000.0   982116000000.0   984829000000.0   930253000000.0            NaN
+Held To Maturity Securities                    369848000000.0   425305000000.0   363707000000.0   201821000000.0            NaN
+Available For Sale Securities                             NaN              NaN              NaN    13827000000.0  12676000000.0
+Trading Securities                             411613000000.0   360112000000.0   330865000000.0   372481000000.0            NaN
+Goodwill And Other Intangible Assets            64381000000.0    60859000000.0    56691000000.0    53428000000.0            NaN
+Other Intangible Assets                         11747000000.0     9197000000.0     6376000000.0     4180000000.0            NaN
+Goodwill                                        52634000000.0    51662000000.0    50315000000.0    49248000000.0            NaN
+Net PPE                                         30157000000.0    27734000000.0    27070000000.0    27109000000.0            NaN
+Gross PPE                                       30157000000.0    27734000000.0              NaN              NaN            NaN
+Other Properties                                15295000000.0    14248000000.0              NaN              NaN            NaN
+Properties                                      14862000000.0    13486000000.0              NaN              NaN            NaN
+Receivables                                    107363000000.0   125189000000.0   102570000000.0    90503000000.0            NaN
+Other Receivables                                         NaN              NaN              NaN    79630000000.0  49766000000.0
+Accounts Receivable                            107363000000.0   125189000000.0   102570000000.0    90503000000.0            NaN
+Other Short Term Investments                   192485000000.0   196699000000.0   290257000000.0   355951000000.0            NaN
+Cash And Cash Equivalents                      624151000000.0   567234000000.0   740834000000.0   527609000000.0            NaN
+Cash Financial                                  29066000000.0    27697000000.0    26438000000.0    24874000000.0            NaN
+Cash Cash Equivalents And Federal Funds Sold   900303000000.0   882826000000.0  1002532000000.0   823893000000.0            NaN
+
+Resource:  Item 7. Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations. 
+
+Management&#8217;s discussion and analysis of financial condition and results of operations, entitled &#8220;Management&#8217;s discussion and analysis,&#8221; appears on pages 48&#8211;161. Such information should be read in conjunction with the Consolidated Financial Statements and Notes thereto, which appear on pages 166&#8211;309. 
+
+
+
+Instruction: 
+Delve into a detailed scrutiny of the company's balance sheet for the most recent fiscal year, pinpointing 
+the structure of assets, liabilities, and shareholders' equity to decode the firm's financial stability and 
+operational efficiency. Focus on evaluating the liquidity through current assets versus current liabilities, 
+the solvency via long-term debt ratios, and the equity position to gauge long-term investment potential. 
+Contrast these metrics with previous years' data to highlight financial trends, improvements, or deteriorations. 
+Finalize with a strategic assessment of the company's financial leverage, asset management, and capital structure, 
+providing insights into its fiscal health and future prospects in a single paragraph. Less than 130 words.

@@ -1,0 +1,58 @@
+Income statement:
+2023-12-31      2022-12-31      2021-12-31      2020-12-31    2019-12-31
+Tax Effect Of Unusual Items                                   -447272000.0     -48944000.0     -80514000.0             0.0           NaN
+Tax Rate For Calcs                                                   0.196           0.184           0.189           0.187           NaN
+Total Unusual Items                                          -2282000000.0    -266000000.0    -426000000.0             NaN           NaN
+Total Unusual Items Excluding Goodwill                       -2282000000.0    -266000000.0    -426000000.0             NaN           NaN
+Net Income From Continuing Operation Net Minority Interest   49552000000.0   37676000000.0   48334000000.0   29131000000.0           NaN
+Reconciled Depreciation                                       7512000000.0    7051000000.0    7932000000.0    8614000000.0           NaN
+Net Interest Income                                          89267000000.0   66710000000.0   52311000000.0   54563000000.0           NaN
+Interest Expense                                             81321000000.0   26097000000.0    5553000000.0    9960000000.0           NaN
+Interest Income                                             170588000000.0   92807000000.0   57864000000.0   64523000000.0           NaN
+Normalized Income                                            51386728000.0   37893056000.0   48679486000.0   29131000000.0           NaN
+Net Income From Continuing And Discontinued Operation        49552000000.0   37676000000.0   48334000000.0   29131000000.0           NaN
+Diluted Average Shares                                        2943100000.0    2970000000.0    3026600000.0    3087400000.0           NaN
+Basic Average Shares                                          2938600000.0    2965800000.0    3021500000.0    3082400000.0           NaN
+Diluted EPS                                                          16.23           12.09           15.36            8.88           NaN
+Basic EPS                                                            16.25            12.1           15.39            8.89           NaN
+Diluted NI Availto Com Stockholders                          47760000000.0   35892000000.0   46503000000.0   27410000000.0           NaN
+Net Income Common Stockholders                               47760000000.0   35892000000.0   46503000000.0   27410000000.0           NaN
+Otherunder Preferred Stock Dividend                            291000000.0     189000000.0     231000000.0     138000000.0           NaN
+Preferred Stock Dividends                                     1501000000.0    1595000000.0    1600000000.0    1583000000.0           NaN
+Net Income                                                   49552000000.0   37676000000.0   48334000000.0   29131000000.0           NaN
+Net Income Including Noncontrolling Interests                49552000000.0   37676000000.0   48334000000.0   29131000000.0           NaN
+Net Income Continuous Operations                             49552000000.0   37676000000.0   48334000000.0   29131000000.0           NaN
+Tax Provision                                                12060000000.0    8490000000.0   11228000000.0    6684000000.0           NaN
+Pretax Income                                                61612000000.0   46166000000.0   59562000000.0   35815000000.0           NaN
+Special Income Charges                                       -2282000000.0    -266000000.0    -426000000.0             NaN           NaN
+Other Special Charges                                         4336000000.0     266000000.0     426000000.0             NaN           NaN
+Restructuring And Mergern Acquisition                        -2054000000.0             0.0             0.0             NaN           NaN
+Gain On Sale Of Security                                     -3218000000.0   -1520000000.0    -309000000.0     734000000.0           NaN
+Selling General And Administration                           51056000000.0   45547000000.0   41603000000.0   37464000000.0           NaN
+Selling And Marketing Expense                                 4591000000.0    3911000000.0    3036000000.0    2476000000.0           NaN
+General And Administrative Expense                           46465000000.0   41636000000.0   38567000000.0   34988000000.0           NaN
+Other Gand A                                                           NaN             NaN             NaN   10338000000.0  9821000000.0
+Salaries And Wages                                           46465000000.0   41636000000.0   38567000000.0   34988000000.0           NaN
+Total Revenue                                               154952000000.0  128641000000.0  121685000000.0  119883000000.0           NaN
+Operating Revenue                                           154952000000.0  128641000000.0  121685000000.0  119883000000.0           NaN
+Occupancy And Equipment                                      13836000000.0   14054000000.0   14457000000.0   14787000000.0           NaN
+Professional Expense And Contract Services Expense           10235000000.0   10174000000.0    9814000000.0    9579000000.0           NaN
+Other Non Interest Expense                                    6649000000.0    6099000000.0    5043000000.0    4826000000.0           NaN
+
+Resource:  Item 7. Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations. 
+
+Management&#8217;s discussion and analysis of financial condition and results of operations, entitled &#8220;Management&#8217;s discussion and analysis,&#8221; appears on pages 48&#8211;161. Such information should be read in conjunction with the Consolidated Financial Statements and Notes thereto, which appear on pages 166&#8211;309. 
+
+
+
+Instruction: 
+Conduct a comprehensive analysis of the company's income statement for the current fiscal year. 
+Start with an overall revenue record, including Year-over-Year or Quarter-over-Quarter comparisons, 
+and break down revenue sources to identify primary contributors and trends. Examine the Cost of 
+Goods Sold for potential cost control issues. Review profit margins such as gross, operating, 
+and net profit margins to evaluate cost efficiency, operational effectiveness, and overall profitability. 
+Analyze Earnings Per Share to understand investor perspectives. Compare these metrics with historical 
+data and industry or competitor benchmarks to identify growth patterns, profitability trends, and 
+operational challenges. The output should be a strategic overview of the company’s financial health 
+in a single paragraph, less than 130 words, summarizing the previous analysis into 4-5 key points under 
+respective subheadings with specific discussion and strong data support.

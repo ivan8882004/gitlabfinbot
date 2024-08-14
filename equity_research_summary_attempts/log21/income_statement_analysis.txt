@@ -1,0 +1,101 @@
+Income statement:
+2023-12-31     2022-12-31     2021-12-31          2020-12-31    2019-12-31
+Tax Effect Of Unusual Items                                  -350451000.0   -146850000.0    -28600000.0   -868803590.031253           NaN
+Tax Rate For Calcs                                                  0.207          0.165            0.2            0.242007           NaN
+Total Unusual Items                                         -1693000000.0   -890000000.0   -143000000.0       -3590000000.0           NaN
+Total Unusual Items Excluding Goodwill                      -1693000000.0   -890000000.0   -143000000.0       -3590000000.0           NaN
+Net Income From Continuing Operation Net Minority Interest   8516000000.0  11261000000.0  21635000000.0        9459000000.0           NaN
+Reconciled Depreciation                                      4856000000.0   2455000000.0   2015000000.0        1902000000.0           NaN
+Net Interest Income                                          6351000000.0   7678000000.0   6470000000.0        4751000000.0           NaN
+Interest Expense                                            62164000000.0  21346000000.0   5650000000.0        8938000000.0           NaN
+Interest Income                                             68515000000.0  29024000000.0  12120000000.0       13689000000.0           NaN
+Normalized Income                                            9858549000.0  12004150000.0  21749400000.0  12180196409.968746           NaN
+Net Income From Continuing And Discontinued Operation        8516000000.0  11261000000.0  21635000000.0        9459000000.0           NaN
+Diluted Average Shares                                        345800000.0    358100000.0    352299996.0         360299996.0           NaN
+Basic Average Shares                                          340800000.0    352100000.0    346599996.0         356399996.0           NaN
+Diluted EPS                                                         22.87          30.06      59.450001               24.74           NaN
+Basic EPS                                                           23.05          30.42      60.250001               24.94           NaN
+Diluted NI Availto Com Stockholders                          7907000000.0  10764000000.0  21151000000.0        8915000000.0           NaN
+Net Income Common Stockholders                               7907000000.0  10764000000.0  21151000000.0        8915000000.0           NaN
+Preferred Stock Dividends                                     609000000.0    497000000.0    484000000.0         544000000.0           NaN
+Net Income                                                   8516000000.0  11261000000.0  21635000000.0        9459000000.0           NaN
+Net Income Including Noncontrolling Interests                8516000000.0  11261000000.0  21635000000.0        9459000000.0           NaN
+Net Income Continuous Operations                             8516000000.0  11261000000.0  21635000000.0        9459000000.0           NaN
+Tax Provision                                                2223000000.0   2225000000.0   5409000000.0        3020000000.0           NaN
+Pretax Income                                               10739000000.0  13486000000.0  27044000000.0       12479000000.0           NaN
+Special Income Charges                                      -1693000000.0   -890000000.0   -143000000.0       -3590000000.0           NaN
+Other Special Charges                                         115000000.0    576000000.0    534000000.0        3420000000.0           NaN
+Impairment Of Capital Assets                                 1578000000.0    314000000.0    143000000.0         171000000.0           NaN
+Gain On Sale Of Security                                              0.0            0.0            0.0                 0.0           NaN
+Depreciation Amortization Depletion Income Statement         4856000000.0   2455000000.0   2015000000.0        1902000000.0           NaN
+Depreciation And Amortization In Income Statement            4856000000.0   2455000000.0   2015000000.0        1902000000.0           NaN
+Selling General And Administration                          16128000000.0  15960000000.0  18272000000.0       13710000000.0           NaN
+Selling And Marketing Expense                                 629000000.0    812000000.0    553000000.0         401000000.0           NaN
+General And Administrative Expense                          15499000000.0  15148000000.0  17719000000.0       13309000000.0           NaN
+Other Gand A                                                          NaN            NaN            NaN        5488000000.0  4680000000.0
+Salaries And Wages                                          15499000000.0  15148000000.0  17719000000.0       13309000000.0           NaN
+Total Revenue                                               46254000000.0  47365000000.0  59339000000.0       44559000000.0           NaN
+Operating Revenue                                           46254000000.0  47365000000.0  59339000000.0       44559000000.0           NaN
+Occupancy And Equipment                                      1053000000.0   1026000000.0    981000000.0         960000000.0           NaN
+Professional Expense And Contract Services Expense           1623000000.0   1887000000.0   1648000000.0        1306000000.0           NaN
+Other Non Interest Expense                                   9134000000.0   8946000000.0   8879000000.0        7514000000.0           NaN
+
+Resource:  
+
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES 
+
+Management&#8217;s Discussion and Analysis 
+
+Item 7. Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+Introduction 
+
+The Goldman Sachs Group, Inc. (Group Inc. or parent company), a Delaware corporation, together with its consolidated subsidiaries, is a leading global financial institution that delivers a broad range of financial services to a large and diversified client base that includes corporations, financial institutions, governments and individuals. Founded in 1869, we are headquartered in New York and maintain offices in all major financial centers around the world. We manage and report our activities in three business segments: Global Banking &#38; Markets, Asset &#38; Wealth Management and Platform Solutions. See &#8220;Results of Operations&#8221; for further information about our business segments. 
+
+When we use the terms &#8220;we,&#8221; &#8220;us&#8221; and &#8220;our,&#8221; we mean Group Inc. and its consolidated subsidiaries. When we use the term &#8220;our subsidiaries,&#8221; we mean the consolidated subsidiaries of Group Inc. References to &#8220;this Form 10-K&#8221; are to our Annual Report on Form 10-K for the year ended December 31, 2023. All references to &#8220;the consolidated financial statements&#8221; or &#8220;Supplemental Financial Information&#8221; are to Part II, Item 8 of this Form 10-K. All references to 2023, 2022 and 2021 refer to our years ended, or the dates, as the context requires, December 31, 2023, December 31, 2022 and December 31, 2021, respectively. Any reference to a future year refers to a year ending on December 31 of that year. Certain reclassifications have been made to previously reported amounts to conform to the current presentation. 
+
+Group Inc. is a bank holding company and a financial holding company regulated by the Board of Governors of the Federal Reserve System (FRB). 
+
+In this discussion and analysis of our financial condition and results of operations, we have included information that constitutes &#8220;forward-looking statements&#8221; within the meaning of the safe harbor provisions of the U.S. Private Securities Litigation Reform Act of 1995. Forward-looking statements are not historical facts or statements of current conditions, but instead represent only our beliefs regarding future events, many of which, by their nature, are inherently uncertain and outside our control. 
+
+By identifying these statements for you in this manner, we are alerting you to the possibility that our actual results, financial condition, liquidity and capital actions may differ, possibly materially, from the anticipated results, financial condition, liquidity and capital actions in these forward-looking statements. Important factors that could cause our results, financial condition, liquidity and capital actions to differ from those in these statements include, among others, those described in &#8220;Risk Factors&#8221; in Part I, Item 1A of this Form 10-K and &#8220;Forward-Looking Statements&#8221; in Part I, Item 1 of this Form 10-K. 
+
+##TABLE_START 
+
+Goldman Sachs 2023 Form 10-K ##TABLE_END
+
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES 
+
+Management&#8217;s Discussion and Analysis 
+
+These statements may relate to, among other things, (i) our future plans and results, including our target return on average common shareholders&#8217; equity (ROE), return on average tangible common shareholders&#8217; equity (ROTE), efficiency ratio, Common Equity Tier 1 (CET1) capital ratio and firmwide assets under supervision (AUS) inflows, and how they can be achieved, (ii) trends in or growth opportunities for our businesses, including the timing, costs, profitability, benefits and other aspects of business and strategic initiatives and their impact on our efficiency ratio, (iii) our level of future compensation expense, including as a percentage of both operating expenses and net revenues, net of provision for credit losses, (iv) our Investment banking fees backlog and future results, (v) our expected interest income and interest expense, (vi) our expense savings and strategic locations initiatives, (vii) expenses we may incur, including future litigation expense, (viii) the projected growth of our deposits and other funding, asset liability management and funding strategies and related interest expense savings, (ix) our business initiatives, including transaction banking, (x) our planned 2024 benchmark debt issuances, (xi) the amount, composition and location of global core liquid assets (GCLA) we expect to hold, (xii) our credit exposures, (xiii) our expected provision for credit losses, (xiv) the adequacy of our allowance for credit losses, (xv) the narrowing of our consumer business, (xvi) the objectives and effectiveness of our business continuity planning (BCP), information security program, risk management and liquidity policies, (xvii) our resolution plan and strategy and their implications for stakeholders, (xviii) the design and effectiveness of our resolution capital and liquidity models and triggers and alerts framework, (xix) the results of stress tests, the effect of changes to regulations, and our future status, activities or reporting under banking and financial regulation, (xx) our expected tax rate, (xxi) the future state of our liquidity and regulatory capital ratios, and our prospective capital distributions (including dividends and repurchases), (xxii) our expected stress capital buffer (SCB) and global systemically important bank ( G-SIB) surcharge, (xxiii) legal proceedings, governmental investigations or other contingencies, (xxiv) the asset recovery guarantee and our remediation activities related to our 1Malaysia Development Berhad settlements, (xxv) the effectiveness of our management of our human capital, including our diversity goals, (xxvi) our sustainability and carbon neutrality targets and goals, (xxvii) future inflation, (xxviii) the impact of Russia&#8217;s invasion of Ukraine and related sanctions and other developments on our business, results and financial position, (xxix) our ability to sell, and the terms of any proposed sales of, Asset &#38; Wealth Management historical principal investments, and pending sale of GreenSky Holdings, LLC (GreenSky), (xxx) an agreement with General Motors (GM) regarding a process to transition their credit card program to another issuer to be selected by GM, (xxxi) the impact of the conflicts in the Middle East, (xxxii) our ability to manage our commercial real estate exposures, (xxxiii) the profitability of Platform Solutions, and (xxxiv) the effectiveness of our cybersecurity risk management process. 
+
+Executive Overview 
+
+We generated net earnings of $8.52 billion for 2023, compared with $11.26 billion for 2022. Diluted earnings per common share (EPS) was $22.87 for 2023, compared with $30.06 for 2022. ROE was 7.5% for 2023, compared with 10.2% for 2022. Book value per common share was $313.56 as of December 2023, 3.3% higher compared with December 2022. 
+
+Net revenues were $46.25 billion for 2023, 2% lower than 2022, reflecting lower net revenues in Global Banking &#38; Markets, largely offset by higher net revenues in Platform Solutions and Asset &#38; Wealth Management. The decrease in net revenues in Global Banking &#38; Markets, compared with a strong prior year, reflected lower net revenues in Fixed Income, Currency and Commodities (FICC) and lower Investment banking fees. The increase in net revenues in Platform Solutions reflected significantly higher net revenues in Consumer platforms. The increase in net revenues in Asset &#38; Wealth Management primarily reflected higher Management and other fees. 
+
+Provision for credit losses was $1.03 billion for 2023, compared with $2.72 billion for 2022. Provisions for 2023 reflected net provisions related to both the credit card portfolio (primarily driven by net charge-offs) and wholesale loans (primarily driven by impairments). These net provisions were partially offset by reserve reductions of $637 million related to the transfer of the GreenSky installment loan portfolio to held for sale and $442 million related to the sale of substantially all of the Marcus by Goldman Sachs (Marcus) loans portfolio. Provisions for 2022 primarily reflected growth in the credit card portfolio, the impact of macroeconomic and geopolitical concerns and net charge-offs. 
+
+Operating expenses were $34.49 billion for 2023, 11% higher than 2022, primarily due to significantly higher impairments related to commercial real estate included in consolidated investment entities (CIEs) ($1.46 billion recognized in 2023), a write-down of identifiable intangible assets of $506 million related to GreenSky and an impairment of goodwill of $504 million related to Consumer platforms, as well as the FDIC special assessment fee of $529 million. Our efficiency ratio (total operating expenses divided by total net revenues) was 74.6% for 2023, compared with 65.8% for 2022. 
+
+During 2023, we returned a total of $9.39 billion of capital to common shareholders, including $5.80 billion of common share repurchases and $3.59 billion of common stock dividends. As of December 2023, our CET1 capital ratio was 14.4% under the Standardized Capital Rules and 14.9% under the Advanced Capital Rules. See Note 20 to the consolidated financial statements for further information about our capital ratios. 
+
+##TABLE_START Goldman Sachs 2023 Form 10-K 63 
+
+##TABLE_END
+
+
+
+Instruction: 
+Conduct a comprehensive analysis of the company's income statement for the current fiscal year. 
+Start with an overall revenue record, including Year-over-Year or Quarter-over-Quarter comparisons, 
+and break down revenue sources to identify primary contributors and trends. Examine the Cost of 
+Goods Sold for potential cost control issues. Review profit margins such as gross, operating, 
+and net profit margins to evaluate cost efficiency, operational effectiveness, and overall profitability. 
+Analyze Earnings Per Share to understand investor perspectives. Compare these metrics with historical 
+data and industry or competitor benchmarks to identify growth patterns, profitability trends, and 
+operational challenges. The output should be a strategic overview of the company’s financial health 
+in a single paragraph, less than 130 words, summarizing the previous analysis into 4-5 key points under 
+respective subheadings with specific discussion and strong data support.

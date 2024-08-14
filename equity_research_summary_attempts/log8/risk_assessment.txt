@@ -1,0 +1,8 @@
+Resource: Company Name: Citigroup, Inc.
+
+Risk factors:
+
+
+
+
+Instruction: According to the given information, summarize the top 3 key risks of the company. Less than 100 words.

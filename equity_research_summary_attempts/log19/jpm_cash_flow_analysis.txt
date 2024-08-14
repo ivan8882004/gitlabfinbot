@@ -1,0 +1,68 @@
+Cash flow statement:
+2023-12-31      2022-12-31      2021-12-31      2020-12-31     2019-12-31
+Free Cash Flow                                   12974000000.0  107119000000.0   78084000000.0  -79910000000.0            NaN
+Repurchase Of Capital Stock                      -9824000000.0  -10596000000.0  -20983000000.0   -7947000000.0            NaN
+Repayment Of Debt                               -64880000000.0  -45556000000.0  -54932000000.0 -105055000000.0            NaN
+Issuance Of Debt                                 75417000000.0   78442000000.0   82409000000.0   78686000000.0            NaN
+Issuance Of Capital Stock                                  0.0             0.0    7350000000.0    4500000000.0            NaN
+Interest Paid Supplemental Data                  77114000000.0   23143000000.0    5142000000.0   13077000000.0            NaN
+Income Tax Paid Supplemental Data                 9908000000.0    4355000000.0   18737000000.0    8140000000.0            NaN
+End Cash Position                               624151000000.0  567234000000.0  740834000000.0  527609000000.0            NaN
+Beginning Cash Position                         567234000000.0  740834000000.0  527609000000.0  263631000000.0            NaN
+Effect Of Exchange Rate Changes                   1871000000.0  -16643000000.0  -11508000000.0    9155000000.0            NaN
+Changes In Cash                                  55046000000.0 -156957000000.0  224733000000.0  254823000000.0            NaN
+Financing Cash Flow                             -25571000000.0 -126257000000.0  275993000000.0  596645000000.0            NaN
+Cash Flow From Continuing Financing Activities  -25571000000.0 -126257000000.0  275993000000.0  596645000000.0            NaN
+Net Other Financing Charges                       7508000000.0    2439000000.0   -5731000000.0     420000000.0            NaN
+Cash Dividends Paid                             -13463000000.0  -13562000000.0  -12858000000.0  -12690000000.0            NaN
+Common Stock Dividend Paid                                 NaN             NaN             NaN             NaN -12343000000.0
+Net Preferred Stock Issuance                               0.0   -7434000000.0    4775000000.0    3070000000.0            NaN
+Preferred Stock Payments                                   0.0   -7434000000.0   -2575000000.0   -1430000000.0            NaN
+Preferred Stock Issuance                                   0.0             0.0    7350000000.0    4500000000.0            NaN
+Net Common Stock Issuance                        -9824000000.0   -3162000000.0  -18408000000.0   -6517000000.0            NaN
+Common Stock Payments                            -9824000000.0   -3162000000.0  -18408000000.0   -6517000000.0            NaN
+Net Issuance Payments Of Debt                     8603000000.0   23902000000.0   35250000000.0  -21931000000.0            NaN
+Net Short Term Debt Issuance                     -1934000000.0   -8984000000.0    7773000000.0    4438000000.0            NaN
+Net Long Term Debt Issuance                      10537000000.0   32886000000.0   27477000000.0  -26369000000.0            NaN
+Long Term Debt Payments                         -64880000000.0  -45556000000.0  -54932000000.0 -105055000000.0            NaN
+Long Term Debt Issuance                          75417000000.0   78442000000.0   82409000000.0   78686000000.0            NaN
+Investing Cash Flow                              67643000000.0 -137819000000.0 -129344000000.0 -261912000000.0            NaN
+Cash Flow From Continuing Investing Activities   67643000000.0 -137819000000.0 -129344000000.0 -261912000000.0            NaN
+Net Other Investing Changes                     -16740000000.0  -11932000000.0  -11044000000.0   -7341000000.0            NaN
+Net Investment Purchase And Sale                 95594000000.0   12467000000.0  -96821000000.0 -180752000000.0            NaN
+Sale Of Investment                              215234000000.0  172401000000.0  263720000000.0  228793000000.0            NaN
+Purchase Of Investment                         -119640000000.0 -159934000000.0 -360541000000.0 -409545000000.0            NaN
+Net Business Purchase And Sale                   -9920000000.0             0.0             0.0             NaN            NaN
+Operating Cash Flow                              12974000000.0  107119000000.0   78084000000.0  -79910000000.0            NaN
+Cash Flow From Continuing Operating Activities   12974000000.0  107119000000.0   78084000000.0  -79910000000.0            NaN
+Change In Working Capital                       -56168000000.0   32686000000.0   35901000000.0 -145312000000.0            NaN
+Change In Other Working Capital                 -83678000000.0     -76000000.0   16885000000.0  -92285000000.0            NaN
+Change In Other Current Assets                   32970000000.0   -2882000000.0  -11745000000.0  -42430000000.0            NaN
+Change In Payables And Accrued Expense          -25388000000.0   58614000000.0   43162000000.0    7415000000.0            NaN
+Change In Payable                               -25388000000.0   58614000000.0   43162000000.0    7415000000.0            NaN
+Change In Account Payable                       -25388000000.0   58614000000.0   43162000000.0    7415000000.0            NaN
+Change In Receivables                            19928000000.0  -22970000000.0  -12401000000.0  -18012000000.0            NaN
+Changes In Account Receivables                   19928000000.0  -22970000000.0  -12401000000.0  -18012000000.0            NaN
+Other Non Cash Items                              7292000000.0   26055000000.0   -8575000000.0   13750000000.0            NaN
+Deferred Tax                                     -4534000000.0   -2738000000.0    3748000000.0   -3573000000.0            NaN
+Deferred Income Tax                              -4534000000.0   -2738000000.0    3748000000.0   -3573000000.0            NaN
+Depreciation Amortization Depletion               7512000000.0    7051000000.0    7932000000.0    8614000000.0            NaN
+Depreciation And Amortization                     7512000000.0    7051000000.0    7932000000.0    8614000000.0            NaN
+Operating Gains Losses                           -2775000000.0             NaN             NaN             NaN            NaN
+Gain Loss On Sale Of Business                    -2775000000.0             0.0             0.0             NaN            NaN
+Net Income From Continuing Operations            49552000000.0   37676000000.0   48334000000.0   29131000000.0            NaN
+
+Resource:  Item 7. Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations. 
+
+Management&#8217;s discussion and analysis of financial condition and results of operations, entitled &#8220;Management&#8217;s discussion and analysis,&#8221; appears on pages 48&#8211;161. Such information should be read in conjunction with the Consolidated Financial Statements and Notes thereto, which appear on pages 166&#8211;309. 
+
+
+
+Instruction: 
+Dive into a comprehensive evaluation of the company's cash flow for the latest fiscal year, focusing on cash inflows 
+and outflows across operating, investing, and financing activities. Examine the operational cash flow to assess the 
+core business profitability, scrutinize investing activities for insights into capital expenditures and investments, 
+and review financing activities to understand debt, equity movements, and dividend policies. Compare these cash movements 
+to prior periods to discern trends, sustainability, and liquidity risks. Conclude with an informed analysis of the company's 
+cash management effectiveness, liquidity position, and potential for future growth or financial challenges in a single paragraph. 
+Less than 130 words.

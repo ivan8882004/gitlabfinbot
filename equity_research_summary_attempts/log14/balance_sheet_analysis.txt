@@ -1,0 +1,352 @@
+Balance sheet:
+2023-09-30     2022-09-30     2021-09-30     2020-09-30    2019-09-30
+Ordinary Shares Number                                1114000000.0   1121000000.0   1125000000.0   1131000000.0           NaN
+Share Issued                                          1114000000.0   1121000000.0   1125000000.0   1131000000.0           NaN
+Net Debt                                              6948000000.0  12709000000.0   8629000000.0   9019000000.0           NaN
+Total Debt                                           15398000000.0  15482000000.0  15745000000.0  15726000000.0           NaN
+Tangible Book Value                                   9531000000.0   5623000000.0   1246000000.0  -1899000000.0           NaN
+Invested Capital                                     36979000000.0  33495000000.0  25695000000.0  21803000000.0           NaN
+Working Capital                                      12836000000.0   8858000000.0   8124000000.0   9847000000.0           NaN
+Net Tangible Assets                                   9531000000.0   5623000000.0   1246000000.0  -1899000000.0           NaN
+Common Stock Equity                                  21581000000.0  18013000000.0   9950000000.0   6077000000.0           NaN
+Total Capitalization                                 36065000000.0  31550000000.0  23651000000.0  21303000000.0           NaN
+Total Equity Gross Minority Interest                 21581000000.0  18013000000.0   9950000000.0   6077000000.0           NaN
+Stockholders Equity                                  21581000000.0  18013000000.0   9950000000.0   6077000000.0           NaN
+Gains Losses Not Affecting Retained Earnings           358000000.0    -22000000.0    128000000.0    207000000.0           NaN
+Other Equity Adjustments                               358000000.0    -22000000.0    128000000.0    207000000.0           NaN
+Retained Earnings                                    20733000000.0  17840000000.0   9822000000.0   5284000000.0           NaN
+Capital Stock                                          490000000.0    195000000.0            0.0    586000000.0           NaN
+Common Stock                                           490000000.0    195000000.0            0.0    586000000.0           NaN
+Preferred Stock                                                0.0            0.0            NaN            0.0           0.0
+Total Liabilities Net Minority Interest              29459000000.0  31001000000.0  31290000000.0  29517000000.0           NaN
+Total Non Current Liabilities Net Minority Interest  19831000000.0  19135000000.0  19339000000.0  20845000000.0           NaN
+Other Non Current Liabilities                         4130000000.0   3863000000.0   3561000000.0   2986000000.0           NaN
+Liabilities Heldfor Sale Non Current                    38000000.0    119000000.0            0.0            NaN           NaN
+Tradeand Other Payables Non Current                   1080000000.0   1472000000.0   1713000000.0   1872000000.0           NaN
+Non Current Deferred Liabilities                        99000000.0    144000000.0    364000000.0    761000000.0           NaN
+Non Current Deferred Revenue                            99000000.0    144000000.0    364000000.0    761000000.0           NaN
+Long Term Debt And Capital Lease Obligation          14484000000.0  13537000000.0  13701000000.0  15226000000.0           NaN
+Long Term Debt                                       14484000000.0  13537000000.0  13701000000.0  15226000000.0           NaN
+Current Liabilities                                   9628000000.0  11866000000.0  11951000000.0   8672000000.0           NaN
+Other Current Liabilities                             3107000000.0   3636000000.0   2630000000.0   2267000000.0           NaN
+Current Deferred Liabilities                           293000000.0    369000000.0    612000000.0    568000000.0           NaN
+Current Deferred Revenue                               293000000.0    369000000.0    612000000.0    568000000.0           NaN
+Current Debt And Capital Lease Obligation              914000000.0   1945000000.0   2044000000.0    500000000.0           NaN
+Current Debt                                           914000000.0   1945000000.0   2044000000.0    500000000.0           NaN
+Other Current Borrowings                               914000000.0   1446000000.0   1544000000.0            NaN  1997000000.0
+Commercial Paper                                               0.0    499000000.0    500000000.0    500000000.0           NaN
+Payables And Accrued Expenses                         5314000000.0   5916000000.0   6665000000.0   5337000000.0           NaN
+Current Accrued Expenses                              1685000000.0   1486000000.0   3053000000.0   2540000000.0           NaN
+Payables                                              3629000000.0   4430000000.0   3612000000.0   2797000000.0           NaN
+Total Tax Payable                                     1717000000.0    634000000.0    862000000.0    549000000.0           NaN
+Income Tax Payable                                    1717000000.0    634000000.0    862000000.0    549000000.0           NaN
+Accounts Payable                                      1912000000.0   3796000000.0   2750000000.0   2248000000.0           NaN
+Total Assets                                         51040000000.0  49014000000.0  41240000000.0  35594000000.0           NaN
+Total Non Current Assets                             28576000000.0  28290000000.0  21165000000.0  17075000000.0           NaN
+Other Non Current Assets                              8174000000.0   8929000000.0   6311000000.0   4037000000.0           NaN
+Non Current Deferred Assets                           3310000000.0   1803000000.0   1591000000.0   1351000000.0           NaN
+Non Current Deferred Taxes Assets                     3310000000.0   1803000000.0   1591000000.0   1351000000.0           NaN
+Goodwill And Other Intangible Assets                 12050000000.0  12390000000.0   8704000000.0   7976000000.0           NaN
+Other Intangible Assets                               1408000000.0   1882000000.0   1458000000.0   1653000000.0           NaN
+Goodwill                                             10642000000.0  10508000000.0   7246000000.0   6323000000.0           NaN
+Net PPE                                               5042000000.0   5168000000.0   4559000000.0   3711000000.0           NaN
+Accumulated Depreciation                             -7668000000.0  -6602000000.0  -5895000000.0  -5134000000.0           NaN
+Gross PPE                                            12710000000.0  11770000000.0  10454000000.0   8845000000.0           NaN
+Leases                                                 485000000.0    369000000.0    374000000.0    320000000.0           NaN
+Construction In Progress                               226000000.0    330000000.0    269000000.0    134000000.0           NaN
+Machinery Furniture Equipment                         9981000000.0   9134000000.0   7997000000.0   6612000000.0           NaN
+Buildings And Improvements                            1849000000.0   1767000000.0   1642000000.0   1606000000.0           NaN
+Land And Improvements                                  169000000.0    170000000.0    172000000.0    173000000.0           NaN
+Properties                                                     0.0            0.0            0.0            0.0           NaN
+Current Assets                                       22464000000.0  20724000000.0  20075000000.0  18519000000.0           NaN
+Other Current Assets                                  1194000000.0   1625000000.0    854000000.0    704000000.0           NaN
+Assets Held For Sale Current                           341000000.0    733000000.0            0.0            NaN           NaN
+Inventory                                             6422000000.0   6341000000.0   3228000000.0   2598000000.0           NaN
+Finished Goods                                        2150000000.0   2791000000.0   1486000000.0   1349000000.0           NaN
+Work In Process                                       4096000000.0   3329000000.0   1475000000.0   1155000000.0           NaN
+Raw Materials                                          176000000.0    221000000.0    267000000.0     94000000.0           NaN
+Receivables                                           3183000000.0   5643000000.0   3579000000.0   4003000000.0           NaN
+Other Receivables                                     1260000000.0   1468000000.0   1365000000.0   1316000000.0           NaN
+Accounts Receivable                                   1923000000.0   4175000000.0   2214000000.0   2687000000.0           NaN
+Allowance For Doubtful Accounts Receivable                     NaN            NaN            NaN            NaN   -47000000.0
+Gross Accounts Receivable                                      NaN            NaN            NaN            NaN  1093000000.0
+Cash Cash Equivalents And Short Term Investments     11324000000.0   6382000000.0  12414000000.0  11214000000.0           NaN
+Other Short Term Investments                          2874000000.0   3609000000.0   5298000000.0   4507000000.0           NaN
+Cash And Cash Equivalents                             8450000000.0   2773000000.0   7116000000.0   6707000000.0           NaN
+
+Resource:  Item 7. Management &#8217; s Discussion and Analysis of Financial Condition and Results of Operations 
+
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our consolidated financial statements and related notes included in &#8220;Part II, Item 8. Financial Statements and Supplementary Data&#8221; of this Annual Report. 
+
+The following section generally discusses fiscal 2023 and 2022 items and year-to-year comparisons between fiscal 2023 and 2022. Discussions of fiscal 2021 items and year-to-year comparisons between fiscal 2022 and 2021 that are not included in this Annual Report can be found in &#8220;Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations&#8221; in Part II, Item 7 of our Annual Report on Form 10-K for the fiscal year ended September 25, 2022. 
+
+Our Business and Operating Segments 
+
+We develop and commercialize foundational technologies and products used in mobile devices and other wireless products. We derive revenues principally from sales of integrated circuit products and licensing our intellectual property, including patents and other rights. 
+
+We are organized on the basis of products and services and have three reportable segments. We conduct business primarily through our QCT (Qualcomm CDMA Technologies) semiconductor business and our QTL (Qualcomm Technology Licensing) licensing business. Our QSI (Qualcomm Strategic Initiatives) reportable segment makes strategic investments. We also have nonreportable segments, including QGOV (Qualcomm Government Technologies) and our cloud computing processing initiative (formerly referred to as our cloud AI inference processing initiative). 
+
+Our reportable segments are operated by QUALCOMM Incorporated and its direct and indirect subsidiaries. QTL is operated by QUALCOMM Incorporated, which owns the vast majority of our patent portfolio. Substantially all of our products and services businesses, including QCT, and substantially all of our engineering and research and development functions, are operated by Qualcomm Technologies, Inc. (QTI), a wholly-owned subsidiary of QUALCOMM Incorporated, and QTI&#8217;s subsidiaries. Neither QTI nor any of its subsidiaries has any right, power or authority to grant any licenses or other rights under or to any patents owned by QUALCOMM Incorporated. 
+
+Further information regarding our business and operating segments is provided in &#8220;Part I, Item 1. Business&#8221; of this Annual Report. 
+
+Seasonality. Many of our products and much of our intellectual property are incorporated into consumer wireless devices, which are subject to seasonality and other fluctuations in demand. Our revenues have historically fluctuated based on consumer demand for devices, as well as on the timing of customer/licensee device launches and/or innovation cycles (such as the transition to the next generation of wireless technologies). This has resulted in fluctuations in QCT revenues in advance 
+
+of and during device launches incorporating our products and in QTL revenues when licensees&#8217; sales occur. These trends may or may not continue in the future. Further, the trends for QTL have been, and may in the future be, impacted by disputes and/or resolutions with licensees and/or governmental investigations or proceedings. 
+
+Fiscal 2023 Overview 
+
+Revenues were $35.8 billion, a decrease of 19% compared to revenues of $44.2 billion in fiscal 2022, with net income of $7.2 billion, a decrease of 44% compared to net income of $12.9 billion in fiscal 2022. Key items from fiscal 2023 included: 
+
+&#8226; Revenues were negatively impacted by the weakness in the macroeconomic environment (which negatively impacted consumer demand for smartphones and other devices that incorporate our products and technologies) and our customers drawing down on their inventory (which were at elevated levels). 
+
+&#8226; QCT revenues decreased by 19% in fiscal 2023 compared to the prior year, primarily due to lower handset and IoT revenues. 
+
+&#8226; QTL revenues decreased by 17% in fiscal 2023 compared to the prior year. 
+
+&#8226; We recorded other expenses of $862 million in fiscal 2023, primarily related to restructuring and restructuring-related charges, compared to a $1.1 billion benefit recorded to other income in fiscal 2022 resulting from the 2018 European Commission (EC) fine reversal. 
+
+&#8226; Our effective income tax rate was 1% in fiscal 2023 compared to 13% in the prior year, reflecting certain additional foreign-derived intangible income (FDII) deductions in fiscal 2023. 
+
+Results of Operations ##TABLE_START Revenues (in millions) 2023 2022 Change Equipment and services $ 30,028 $ 37,171 $ (7,143) Licensing 5,792 7,029 (1,237) $ 35,820 $ 44,200 $ (8,380) ##TABLE_END
+
+2023 vs. 2022 
+
+The decrease in revenues in fiscal 2023 was primarily due to: 
+
+- &#160;$7.2 billion in lower equipment and services revenue from our QCT segment 
+
+- $1.1 billion in lower licensing revenues from our QTL segment 
+
+##TABLE_START Costs and Expenses (in millions, except percentages) 2023 2022 Change Cost of revenues $ 15,869 $ 18,635 $ (2,766) Gross margin 56 % 58 % ##TABLE_END
+
+2023 vs. 2022 
+
+Gross margin percentage decreased in fiscal 2023 primarily due to a decrease in QCT gross margin. 
+
+##TABLE_START 2023 2022 Change Research and development $ 8,818 $ 8,194 $ 624 % of revenues 25 % 19 % ##TABLE_END
+
+2023 vs. 2022 
+
+The increase in research and development expenses in fiscal 2023 was due to: 
+
++ &#160;$375 million increase in share-based compensation expense 
+
++ &#160;$125 million increase in expenses driven by revaluation of our deferred compensation obligation on higher relative stock market performance 
+
++ &#160;$124 million increase driven by higher costs related to the development of wireless and integrated circuit technologies (including 5G and application processor technologies), primarily driven by an increase in employee-related expenses (which included lower employee cash incentive program costs) 
+
+##TABLE_START 2023 2022 Change Selling, general and administrative $ 2,483 $ 2,570 $ (87) % of revenues 7 % 6 % ##TABLE_END
+
+2023 vs. 2022 
+
+The decrease in selling, general and administrative expenses in fiscal 2023 was primarily due to: 
+
+- &#160;$109 million decrease in employee-related expenses (which included lower employee cash incentive program costs) 
+
+- &#160;$95 million decrease in acquisition-related expenses, primarily related to the Veoneer transaction which closed in the third quarter of fiscal 2022 
+
++ &#160;$99 million increase in expenses driven by revaluation of our deferred compensation obligation on higher relative stock market performance 
+
+##TABLE_START 2023 2022 Change 
+
+Other expense (income) 
+
+$ 862 $ (1,059) $ 1,921 ##TABLE_END
+
+2023 vs. 2022 
+
+Other expense in fiscal 2023 consisted of $712 million in restructuring and restructuring-related charges (substantially all of which related to severance costs) resulting from certain cost reduction actions initiated in fiscal 2023, and a $150 million intangible asset impairment charge related to in-process research and development. Additional information regarding our restructuring charges is provided in this Annual Report in &#8220;Notes to Consolidated Financial Statements, Note 2. Composition of Certain Financial Statement Items - Other Income, Costs and Expenses.&#8221; 
+
+Other income in fiscal 2022 consisted of a $1.1 billion benefit resulting from the 2018 EC fine reversal. 
+
+##TABLE_START Interest Expense and Investment and Other Income (Expense), Net (in millions) 
+
+2023 2022 Change Interest expense $ 694 $ 490 $ 204 Investment and other income (expense), net Interest and dividend income $ 313 $ 91 $ 222 Net gains (losses) on marketable securities 75 (363) 438 Net gains on other investments 21 113 (92) Net gains (losses) on deferred compensation plan assets 86 (141) 227 Impairment losses on other investments (132) (47) (85) Other (14) (25) 11 &#160; $ 349 $ (372) $ 721 ##TABLE_END
+
+Interest expense in fiscal 2022 included a $62 million reversal of accrued interest previously recorded related to the annulled 2018 EC fine. 
+
+Net losses on marketable securities in fiscal 2022 was primarily driven by the change in fair value of certain of our QSI marketable equity investments in early or growth stage companies. 
+
+Income Tax Expense (in millions, except percentages) 
+
+The following table summarizes the primary factors that caused our annual tax provision from continuing operations to differ from the expected income tax provision at the U.S. federal statutory rate. Substantially all of our income is taxed in the U.S., of which a significant portion qualifies for preferential treatment as FDII at a 13% effective tax rate. Additional information regarding our annual effective tax rate (including discussion related to the impact of the new requirement to capitalize research and development expenditures for federal income tax purposes) is provided in this Annual Report in &#8220;Notes to Consolidated Financial Statements, Notes 3. Income Taxes.&#8221; 
+
+##TABLE_START 2023 2022 Expected income tax provision at federal statutory tax rate $ 1,563 $ 3,150 Benefit from FDII deduction related to capitalizing research and development expenditures (598) &#8212; Benefit from FDII deduction, excluding the impact of capitalizing research and development expenditures (447) (753) Benefit related to the research and development tax credit (235) (224) Benefit from fiscal 2021 and 2022 FDII deductions related to a change in sourcing of research and development expenditures (126) &#8212; Benefit from releasing valuation allowance on unutilized foreign loss carryforwards (114) &#8212; Foreign currency (gains) losses related to foreign withholding tax receivable (66) 243 Shortfall (excess) tax benefit associated with share-based awards 3 (257) Nontaxable reversal of 2018 EC fine &#8212; (224) Other 124 77 Income tax expense $ 104 $ 2,012 Effective tax rate 1 % 13 % ##TABLE_END
+
+Discontinued Operations (in millions) 
+
+##TABLE_START 2023 2022 Change Discontinued operations, net of income taxes $ (107) $ (50) $ (57) ##TABLE_END
+
+Discontinued operations in fiscal 2023 and 2022 primarily related to net losses from the Non-Arriver businesses. Fiscal 2023 also included a gain on the sale of the Active Safety business and certain write-down charges related to the Restraint Control Systems business based on the expected sales price, the individual and aggregate amounts of which were not material. Information regarding the Non-Arriver businesses is provided in this Annual Report in &#8220;Notes to Consolidated Financial Statements, Note 9. Acquisitions and Divestitures.&#8221; 
+
+Segment Results 
+
+The following should be read in conjunction with the fiscal 2023 and 2022 results of operations for each reportable segment included in this Annual Report in &#8220;Notes to Consolidated Financial Statements, Note 8. Segment Information.&#8221; 
+
+QCT Segment (in millions, except percentages) ##TABLE_START 2023 2022 Change Revenues Handsets 
+
+$ 22,570 $ 28,815 $ (6,245) Automotive 
+
+1,872 1,509 363 IoT (internet of things) 
+
+5,940 7,353 (1,413) 
+
+Total revenues (1) 
+
+$ 30,382 $ 37,677 $ (7,295) 
+
+EBT (2) 
+
+$ 7,924 $ 12,837 $ (4,913) EBT as a % of revenues 26 % 34 % -8 points ##TABLE_END
+
+(1) Beginning in the first quarter of fiscal 2023, QCT RFFE (radio frequency front-end) revenues, which were previously presented as a separate revenue stream, are now included within our Handsets, Automotive and internet of things (IoT) revenue streams as applicable. Prior period information has been recast to reflect this change. Descriptions of our three QCT revenue streams can be found in this Annual Report in &#8220;Notes to Consolidated Financial Statements, Note 2. Composition of Certain Financial Statement Items.&#8221; 
+
+(2) Earnings before income taxes. 
+
+Substantially all of QCT&#8217;s revenues consist of equipment and services revenues, which were $29.9 billion and $37.0 billion in fiscal 2023 and 2022, respectively. QCT handsets, automotive and IoT revenues mostly relate to sales of our Snapdragon platforms (which include processors and modems), stand-alone Mobile Data Modems, radio frequency transceiver, power management and wireless connectivity integrated chipsets as well as sales of 4G, 5G sub 6 and 5G millimeter wave RFFE products. 
+
+2023 vs. 2022 
+
+The decrease in QCT revenues in fiscal 2023 was primarily due to: 
+
+- lower handset revenues, primarily driven by $7.9 billion in lower chipset shipments to certain major OEMs (primarily driven by the negative effects of the macroeconomic environment weakness and customers drawing down on their elevated inventory levels), partially offset by $1.7 billion in higher revenues per chipset primarily driven by favorable mix and increases in average selling prices 
+
+- lower IoT revenues, primarily driven by a decrease in demand across consumer, edge networking, and industrial products (primarily driven by the negative effects of the macroeconomic environment weakness and elevated customer inventory levels) 
+
++ higher automotive revenues, primarily driven by an increase in demand for digital cockpit products 
+
+QCT EBT as a percentage of revenues decreased in fiscal 2023 due to: 
+
+- lower revenues 
+
+- lower gross margin percentage, primarily driven by increased product costs 
+
+QTL Segment (in millions, except percentages) ##TABLE_START 2023 2022 Change Licensing revenues $ 5,306 $ 6,358 $ (1,052) EBT 3,628 4,628 (1,000) EBT as a % of revenues 68 % 73 % -5 points ##TABLE_END
+
+2023 vs. 2022 
+
+The decrease in QTL licensing revenues in fiscal 2023 was primarily due to: 
+
+- $730 million decrease in estimated sales of 3G/4G/5G-based multimode products, primarily driven by the macroeconomic environment weakness 
+
+- &#160; $205 million decrease in revenues from the ending of the recognition of certain upfront license fee consideration in the first quarter of fiscal 2023 from our long-term license agreement with Nokia 
+
+QTL EBT as a percentage of revenues decreased in fiscal 2023 primarily due to lower revenues. 
+
+QSI Segment (in millions) ##TABLE_START 2023 2022 Change Equipment and services revenues $ 28 $ 31 $ (3) 
+
+Loss before income taxes 
+
+(12) (279) 267 ##TABLE_END
+
+2023 vs. 2022 
+
+The decrease in QSI loss before income taxes in fiscal 2023 was primarily due to a $350 million decrease in net losses on investments, which was primarily driven by the change in fair value of certain of our marketable equity investments in early or growth stage companies, partially offset by a $61 million increase in impairment losses on certain investments. 
+
+Looking Forward 
+
+In the coming years, we expect consumer demand for 3G/4G/5G multimode and 5G products and services to continue to ramp around the world as we continue to transition from 3G/4G multimode and 4G products and services. We believe that 5G combined with high-performance, low-power processing and on-device intelligence will continue to drive adoption of certain technologies that are already commonly used in smartphones by industries and applications beyond mobile handsets, such as automotive and IoT. We believe it is important that we remain a leader in 5G technology development, standardization, intellectual property creation and licensing, and a leading developer and supplier of 5G integrated circuit products in order to sustain and grow our business long term. 
+
+As we look forward to the next several quarters: 
+
+&#8226; We expect certain customers will continue to draw down on their inventory (which remains at elevated levels), which will continue to have a negative impact on our revenues, results of operations and cash flows. This dynamic, along with weaker consumer demand for smartphones and other devices that incorporate our products and technologies in fiscal 2023 relative to the prior year, have also contributed to our elevated inventory levels and contribute to the inherent uncertainties in estimating future customer demand, which may increase excess or obsolete 
+
+inventory or reserve charges if we overestimate such demand, negatively impacting our results of operations and cash flows. 
+
+&#8226; We expect to continue to see product cost increases from certain of our key semiconductor wafer suppliers. 
+
+&#8226; We expect commercial 5G network deployments and device launches will continue. 
+
+&#8226; We expect continued intense competition, including from vertical integration by certain of our customers (for example, Samsung and Huawei). 
+
+&#8226; Given the continued uncertainty in the macroeconomic and demand environment, we have initiated certain restructuring actions in the fourth quarter of fiscal 2023 to enable investments in key growth and diversification opportunities. We anticipate these actions to be substantially completed in the first half of fiscal 2024. 
+
+&#8226; Current U.S./China trade relations and/or national security protection policies may negatively impact our business, growth prospects and results of operations. See &#8220;Risk Factors&#8221; in this Annual Report, including the Risk Factor titled &#8220; A significant portion of our business is concentrated in China, and the risks of such concentration are exacerbated by U.S./China trade and national security tensions.&#8221; 
+
+Further, while future developments are highly uncertain, we currently do not expect a significant impact on our results of operations in the future due to the Israel-Hamas war. See &#8220;Risk Factors&#8221; in this Annual Report, specifically the Risk Factor titled &#8220; Geopolitical conflicts, natural disasters, pandemics and other health crises, and other factors outside of our control, could significantly disrupt our business. &#8221; 
+
+In addition to the foregoing business and market-based matters, we continue to devote resources to working with and educating participants in the wireless industry and governments as to the benefits of our licensing programs and our extensive technology investments in promoting a highly competitive and innovative wireless industry. However, we expect that certain companies may be dissatisfied with the need to pay reasonable royalties for the use of our technologies and not welcome the success of our licensing programs in enabling new, highly cost-effective competitors to their products. Accordingly, such companies, and/or governments or regulators, may continue to challenge our business model in various forums throughout the world. 
+
+Further discussion of risks related to our business is provided in &#8220;Part I, Item 1A. Risk Factors&#8221; included in this Annual Report. 
+
+Liquidity and Capital Resources 
+
+Our principal sources of liquidity are our existing cash, cash equivalents and marketable securities, cash generated from operations and cash provided by our debt programs, which we believe will satisfy our working and other capital requirements for at least the next 12 months based on our current business plans. 
+
+The following table presents selected financial information related to our liquidity as of and for the years ended September 24, 2023 and September 25, 2022 (in millions): 
+
+##TABLE_START September 24, 2023 September 25, 2022 Change Cash and cash equivalents (1) $ 8,450 $ 2,773 $ 5,677 Marketable securities 2,874 3,609 (735) Cash, cash equivalents and marketable securities $ 11,324 $ 6,382 $ 4,942 ##TABLE_END
+
+(1) Excludes $77 million and $326 million of cash and cash equivalents classified as held for sale (included in other current assets) at September 24, 2023 and September 25, 2022, respectively. 
+
+##TABLE_START 2023 2022 Change Net cash provided by operating activities $ 11,299 $ 9,096 $ 2,203 
+
+Net cash provided (used) by investing activities 
+
+762 (5,804) 6,566 Net cash used by financing activities (6,663) (7,196) 533 ##TABLE_END
+
+Cash, cash equivalents and marketable securities. The net increase in cash, cash equivalents and marketable securities was primarily due to net cash provided by operating activities, the issuance of $1.9 billion of unsecured fixed-rate notes, $1.5 billion in net cash proceeds from the sale of the Active Safety business and $434 million in proceeds from the issuance of common stock (primarily under our Employee Stock Purchase Plan), partially offset by $3.5 billion in cash dividends paid, $3.0 billion in payments to repurchase shares of our common stock, $1.5 billion in capital expenditures, $1.4 billion repayments of notes that matured in January 2023, $521 million in payments of tax withholdings related to the vesting of share-based awards and $498 million in net repayments of commercial paper. 
+
+Net changes in our operating assets and liabilities positively impacted our operating cash flows primarily from a decrease in accounts receivable as a result of lower revenues and a decrease in other assets primarily driven by utilization of prior 
+
+advanced supply agreement payments (which payments were primarily made during 2022 and 2021) and certain settlement payments received associated with our forward starting interest rate swaps, partially offset by lower operating liabilities resulting from lower purchases due to lower customer demand. 
+
+Debt. In the first quarter of fiscal 2023, we issued unsecured fixed-rate notes, consisting of $700 million of fixed-rate 5.40% notes and $1.2 billion of fixed-rate 6.00% notes (collectively, November 2022 Notes) that mature on May 20, 2033 and May 20, 2053, respectively. The net proceeds from the November 2022 Notes were used to repay $946 million of fixed-rate notes and $500 million of floating-rate notes that matured in January 2023 and the excess was used for general corporate purposes. At September 24, 2023 , we had $15.9 billion of principal fixed-rate notes outstanding, $914 million of which matures in May 2024. The remaining debt has maturity dates in 2025 through 2053. 
+
+We have an unsecured commercial paper program, which provides for the issuance of up to $4.5 billion of commercial paper. Net proceeds from this program are used for general corporate purposes. At September 24, 2023 , we had no amounts of commercial paper outstanding. We also have a Revolving Credit Facility, which provides for unsecured revolving facility loans, swing line loans and letters of credit in an aggregate amount of up to $4.3 billion, which expires on December 8, 2025. At September 24, 2023 , no amounts were outstanding under the Revolving Credit Facility. 
+
+We expect to issue new debt in the future. The amount and timing of any such new debt will depend on a number of factors, including but not limited to maturities of our existing debt, acquisitions and strategic investments, favorable and/or acceptable interest rates and changes in corporate income tax law. Additional information regarding our outstanding debt at September 24, 2023 is provided in this Annual Report in &#8220;Notes to Consolidated Financial Statements, Note 6. Debt.&#8221; 
+
+Income Taxes. At September 24, 2023 , we estimated remaining future payments of $1.5 billion for a one-time U.S. repatriation tax accrued in fiscal 2018, after application of certain tax credits, which is payable in installments over the next three years. At September 24, 2023 , other current liabilities included $391 million for the next installment due in January 2024 as well as $1.0 billion rela ted to certain postponed U.S. federal income tax-payments from fiscal 2023, which were paid in October 2023. Beginning in fiscal 2023, for federal income tax purposes, we are required to capitalize and amortize domestic research and development expenditures over five years and foreign research and development expenditures over fifteen years (such expenditures were previously deducted as incurred). Our cash flows from operations will be adversely affected due to significantly higher cash tax payments. Additional information regarding our income taxes is provided in this Annual Report in &#8220;Notes to Consolidated Financial Statements, Note 3. Income Taxes.&#8221; 
+
+Capital Return Program. The following table summarizes stock repurchases, before commissions, and dividends paid during fiscal 2023 and 2022 (in millions, except per-share amounts): ##TABLE_START Stock Repurchase Program Dividends Total Shares Average Price Paid Per Share Amount Per Share Amount Amount 2023 25 $ 117.93 $ 2,973 $ 3.10 $ 3,462 $ 6,435 2022 21 149.95 3,129 2.86 3,212 6,341 ##TABLE_END
+
+On October 12, 2021, we announced a $10.0 billion stock repurchase program. The stock repurchase program has no expiration date. At September 24, 2023, $5.1 billion remained authorized for repurchase under our stock repurchase program. Our stock repurchase programs are subject to periodic evaluations to determine when and if repurchases are in the best interests of our stockholders, and we may accelerate, suspend, delay or discontinue repurchases at any time. 
+
+On October 13, 2023, we announced a cash dividend of $0.80 per share on our common stock, payable on December 14, 2023 to stockholders of record as of the close of business on November 30, 2023. We currently intend to continue to use cash dividends as a means of returning capital to stockholders, subject to capital availability and our view that cash dividends are in the best interests of our stockholders, among other factors. 
+
+Additional Capital Requirements . Recent and expected working and other capital requirements, in addition to the above matters, also include the items described below: 
+
+&#8226; Our purchase obligations at September 24, 2023 , which primarily relate to purchase commitments with certain suppliers of our integrated circuit products, including those under multi-year capacity commitments, totaled $12.2 billion, of which, $6.8 billion is expected to be paid in the next 12 months. 
+
+&#8226; Our research and development expenditures were $8.8 billion in fiscal 2023 and $8.2 billion in fiscal 2022. 
+
+&#8226; Cash outflows for capital expenditures were $1.5 billion in fiscal 2023 and $2.3 billion in fiscal 2022. We reduced our capital expenditures in fiscal 2023 in response to the weakness in the macroeconomic environment (which negatively impacted consumer demand for smartphones and other devices that incorporate our products and technologies). 
+
+&#8226; Amounts related to future lease payments for operating lease obligations at September 24, 2023 totaled $872 million, with $116 million expected to be paid within the next 12 months. 
+
+&#8226; In the fourth quarter of fiscal 2023, we accrued $385 million of severance costs, substantially all of which is expected to be paid in the first half of fiscal 2024. 
+
+&#8226; We expect to continue making strategic investments and acquisitions, the amounts of which could vary significantly. 
+
+Further, regulatory authorities in certain jurisdictions have investigated our business practices and instituted proceedings against us and they or other regulatory authorities may do so in the future. Additionally, certain of our direct and indirect customers and licensees have pursued, and others may in the future pursue, litigation or arbitration against us related to our business. Unfavorable resolutions of one or more of these matters have had and could in the future have a material adverse effect on our business, revenues, results of operations, financial condition and cash flows. See &#8220;Notes to Consolidated Financial Statements, Note 7. Commitments and Contingencies&#8221; and &#8220;Part I, Item 1A. Risk Factors&#8221; in this Annual Report. 
+
+Critical Accounting Estimates 
+
+The preparation of our consolidated financial statements in accordance with accounting principles generally accepted in the United States requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses, and disclosure of contingent assets and liabilities. We base our estimates on historical and anticipated results and trends and on various other assumptions that we believe are reasonable under the circumstances, including assumptions as to future events. By their nature, estimates are inherently subject to a degree of uncertainty. Although we believe that our estimates and the assumptions supporting our assessments are reasonable, actual results could differ materially from our estimates and assumptions, and could be material to our consolidated financial statements. 
+
+In addition to our critical accounting estimates and policies below, refer to &#8220;Note 1. Significant Accounting Policies&#8221; and &#8220;Note 2. Composition of Certain Financial Statement Items&#8221; included in this Annual Report in &#8220;Notes to Consolidated Financial Statements&#8221; for further information. If the impact of changes in our critical accounting estimates are material or considered necessary to understand our results of operations for the periods presented, then such information is disclosed within this Annual Report in &#8220;Item 7. Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations.&#8221; 
+
+Revenue Recognition . We grant licenses or otherwise provide rights to use portions of our intellectual property portfolio, which, among other rights, includes certain patent rights essential to and/or useful in the manufacture, sale or use of certain wireless products. We estimate and recognize sales-based royalties on such licensed products in the period in which the licensees&#8217; sales occur, which is based largely on preliminary royalty estimates provided by our licensees. For fiscal 2023 and 2022, actual amounts for sales-based royalties have been materially consistent with such estimates, and no significant reversals of revenues have been required as a result of adjustments to prior period royalty estimates. 
+
+Impairment of Non-marketable Equity Investments. We monitor our investments for events or circumstances that could indicate impairment, including those that result from observable price adjustments. Key considerations in this assessment include the investee&#8217;s financial and liquidity position and business forecasts (including their ability to respond to any significant deterioration), industry performance, development and/or market acceptance of the investee&#8217;s products or technologies, as well as considering any appreciation in fair value that has not been recognized in the carrying values of such investments and other relevant events and factors (such as the effects of the macroeconomic environment in fiscal 2023 and 2022). In fiscal 2023 and 2022, there were no significant impairment losses or adjustments to our previous judgments and estimates recorded. 
+
+Inventories. We measure inventory at the lower of cost or net realizable value considering judgments and estimates related to future customer demand and other market conditions, such as the impact of certain capacity constraints experienced across the semiconductor industry through the third quarter of fiscal 2022, as well as the impact of the macroeconomic environment in fiscal 2022 and 2023, which negatively impacted consumer demand for smartphones and other devices that incorporate our products and technologies. Although we believe these estimates are reasonable, any significant changes in customer demand that are less favorable than our previous estimates may require additional inventory write-downs and would be reflected in cost of sales resulting in a negative impact to our gross margin in that period. For fiscal 2023 and 2022, the net effect from changes in this estimate and related reserves was less than 2% of cost of revenues during each period. 
+
+Impairment of Goodwill, Other Indefinite-Lived Assets and Long-Lived Assets . We monitor our goodwill, other indefinite-lived assets and long-lived assets for the existence of impairment indicators and apply judgments in the valuation methods and underlying assumptions utilized in such assessments. During fiscal 2023, we recorded total impairment charges of approximately $400 million related to certain long-lived and other indefinite-lived assets. Such impairments (and the related remaining asset values) were not individually material. During fiscal 2022, there were no material impairment charges for long-lived or indefinite-lived assets. Additionally, the estimated fair values of our QCT and QTL reporting units, based on our qualitative assessment, were substantially in excess of their respective carrying values at September 24, 2023. 
+
+Legal and Regulatory Proceedings. We record our best estimate of a loss related to pending legal and regulatory proceedings when the loss is considered probable and the amount can be reasonably estimated. We face difficulties in evaluating or estimating likely outcomes or the amount of possible loss in certain legal and regulatory proceedings. 
+
+Income Taxes. We make significant judgments and estimates in determining our provision for income taxes, including our assessment of our income tax positions given the uncertainties involved in the interpretation and application of complex tax laws and regulations in various taxing jurisdictions. 
+
+
+
+Instruction: 
+Delve into a detailed scrutiny of the company's balance sheet for the most recent fiscal year, pinpointing 
+the structure of assets, liabilities, and shareholders' equity to decode the firm's financial stability and 
+operational efficiency. Focus on evaluating the liquidity through current assets versus current liabilities, 
+the solvency via long-term debt ratios, and the equity position to gauge long-term investment potential. 
+Contrast these metrics with previous years' data to highlight financial trends, improvements, or deteriorations. 
+Finalize with a strategic assessment of the company's financial leverage, asset management, and capital structure, 
+providing insights into its fiscal health and future prospects in a single paragraph. Less than 130 words.

@@ -1,0 +1,108 @@
+Cash flow statement:
+2023-12-31      2022-12-31      2021-12-31      2020-12-31    2019-12-31
+Free Cash Flow                                  -14903000000.0    4960000000.0    1631000000.0  -24844000000.0           NaN
+Repurchase Of Capital Stock                      -6796000000.0   -3500000000.0   -7875000000.0   -2278000000.0           NaN
+Repayment Of Debt                               -57636000000.0  -46213000000.0  -59198000000.0  -59188000000.0           NaN
+Issuance Of Debt                                 50200000000.0   86322000000.0   97512000000.0   55323000000.0           NaN
+Issuance Of Capital Stock                         1496000000.0             0.0    2172000000.0     349000000.0           NaN
+Capital Expenditure                              -2316000000.0   -3748000000.0   -4667000000.0   -6309000000.0           NaN
+Interest Paid Supplemental Data                  60026000000.0   19022000000.0    5521000000.0    9091000000.0           NaN
+Income Tax Paid Supplemental Data                 2389000000.0    4555000000.0    6195000000.0    2754000000.0           NaN
+End Cash Position                               241577000000.0  241825000000.0  261036000000.0  155842000000.0           NaN
+Beginning Cash Position                         241825000000.0  261036000000.0  155842000000.0  133546000000.0           NaN
+Effect Of Exchange Rate Changes                   1851000000.0  -11561000000.0   -5377000000.0    4807000000.0           NaN
+Changes In Cash                                  -2099000000.0   -7650000000.0  110571000000.0   17489000000.0           NaN
+Financing Cash Flow                              27800000000.0   59602000000.0  134738000000.0   70380000000.0           NaN
+Cash Flow From Continuing Financing Activities   27800000000.0   59602000000.0  134738000000.0   70380000000.0           NaN
+Net Other Financing Charges                       2279000000.0     563000000.0     497000000.0     599000000.0           NaN
+Cash Dividends Paid                              -4189000000.0   -3682000000.0   -2725000000.0   -2336000000.0           NaN
+Common Stock Dividend Paid                                 NaN             NaN             NaN   -2336000000.0 -2104000000.0
+Net Preferred Stock Issuance                       496000000.0             0.0    -503000000.0      -1000000.0           NaN
+Preferred Stock Payments                         -1000000000.0             0.0   -2675000000.0    -350000000.0           NaN
+Preferred Stock Issuance                          1496000000.0             0.0    2172000000.0     349000000.0           NaN
+Net Common Stock Issuance                        -5796000000.0   -3500000000.0   -5200000000.0   -1928000000.0           NaN
+Common Stock Payments                            -5796000000.0   -3500000000.0   -5200000000.0   -1928000000.0           NaN
+Common Stock Issuance                                      NaN             NaN             NaN             0.0           0.0
+Net Issuance Payments Of Debt                    -4713000000.0   38147000000.0   39131000000.0    6703000000.0           NaN
+Net Short Term Debt Issuance                      2723000000.0   -1962000000.0     817000000.0   10568000000.0           NaN
+Net Long Term Debt Issuance                      -7436000000.0   40109000000.0   38314000000.0   -3865000000.0           NaN
+Long Term Debt Payments                         -57636000000.0  -46213000000.0  -59198000000.0  -59188000000.0           NaN
+Long Term Debt Issuance                          50200000000.0   86322000000.0   97512000000.0   55323000000.0           NaN
+Investing Cash Flow                             -17312000000.0  -75960000000.0  -30465000000.0  -34356000000.0           NaN
+Cash Flow From Continuing Investing Activities  -17312000000.0  -75960000000.0  -30465000000.0  -34356000000.0           NaN
+Net Investment Purchase And Sale                -13408000000.0  -47575000000.0    5789000000.0  -19613000000.0           NaN
+Sale Of Investment                               26848000000.0   12961000000.0   45701000000.0   29057000000.0           NaN
+Purchase Of Investment                          -40256000000.0  -60536000000.0  -39912000000.0  -48670000000.0           NaN
+Net Business Purchase And Sale                     487000000.0   -2115000000.0             0.0    -231000000.0           NaN
+Purchase Of Business                                       NaN   -2115000000.0             0.0    -231000000.0  -803000000.0
+Net PPE Purchase And Sale                          962000000.0   -1042000000.0    -734000000.0   -3339000000.0           NaN
+Sale Of PPE                                       3278000000.0    2706000000.0    3933000000.0    2970000000.0           NaN
+Purchase Of PPE                                  -2316000000.0   -3748000000.0   -4667000000.0   -6309000000.0           NaN
+Operating Cash Flow                             -12587000000.0    8708000000.0    6298000000.0  -18535000000.0           NaN
+Cash Flow From Continuing Operating Activities  -12587000000.0    8708000000.0    6298000000.0  -18535000000.0           NaN
+Change In Working Capital                       -27712000000.0   -9394000000.0  -20062000000.0  -34080000000.0           NaN
+Change In Other Working Capital                -189574000000.0   88441000000.0   55552000000.0  -22893000000.0           NaN
+Stock Based Compensation                          2085000000.0    4083000000.0    2348000000.0    1920000000.0           NaN
+Deferred Tax                                     -1360000000.0   -2412000000.0       5000000.0    -833000000.0           NaN
+Deferred Income Tax                              -1360000000.0   -2412000000.0       5000000.0    -833000000.0           NaN
+Depreciation Amortization Depletion               4856000000.0    2455000000.0    2015000000.0    1902000000.0           NaN
+Depreciation And Amortization                     4856000000.0    2455000000.0    2015000000.0    1902000000.0           NaN
+Operating Gains Losses                                     NaN             NaN             NaN      -1000000.0   -20000000.0
+Net Income From Continuing Operations             8516000000.0   11261000000.0   21635000000.0    9459000000.0           NaN
+
+Resource:  
+
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES 
+
+Management&#8217;s Discussion and Analysis 
+
+Item 7. Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+Introduction 
+
+The Goldman Sachs Group, Inc. (Group Inc. or parent company), a Delaware corporation, together with its consolidated subsidiaries, is a leading global financial institution that delivers a broad range of financial services to a large and diversified client base that includes corporations, financial institutions, governments and individuals. Founded in 1869, we are headquartered in New York and maintain offices in all major financial centers around the world. We manage and report our activities in three business segments: Global Banking &#38; Markets, Asset &#38; Wealth Management and Platform Solutions. See &#8220;Results of Operations&#8221; for further information about our business segments. 
+
+When we use the terms &#8220;we,&#8221; &#8220;us&#8221; and &#8220;our,&#8221; we mean Group Inc. and its consolidated subsidiaries. When we use the term &#8220;our subsidiaries,&#8221; we mean the consolidated subsidiaries of Group Inc. References to &#8220;this Form 10-K&#8221; are to our Annual Report on Form 10-K for the year ended December 31, 2023. All references to &#8220;the consolidated financial statements&#8221; or &#8220;Supplemental Financial Information&#8221; are to Part II, Item 8 of this Form 10-K. All references to 2023, 2022 and 2021 refer to our years ended, or the dates, as the context requires, December 31, 2023, December 31, 2022 and December 31, 2021, respectively. Any reference to a future year refers to a year ending on December 31 of that year. Certain reclassifications have been made to previously reported amounts to conform to the current presentation. 
+
+Group Inc. is a bank holding company and a financial holding company regulated by the Board of Governors of the Federal Reserve System (FRB). 
+
+In this discussion and analysis of our financial condition and results of operations, we have included information that constitutes &#8220;forward-looking statements&#8221; within the meaning of the safe harbor provisions of the U.S. Private Securities Litigation Reform Act of 1995. Forward-looking statements are not historical facts or statements of current conditions, but instead represent only our beliefs regarding future events, many of which, by their nature, are inherently uncertain and outside our control. 
+
+By identifying these statements for you in this manner, we are alerting you to the possibility that our actual results, financial condition, liquidity and capital actions may differ, possibly materially, from the anticipated results, financial condition, liquidity and capital actions in these forward-looking statements. Important factors that could cause our results, financial condition, liquidity and capital actions to differ from those in these statements include, among others, those described in &#8220;Risk Factors&#8221; in Part I, Item 1A of this Form 10-K and &#8220;Forward-Looking Statements&#8221; in Part I, Item 1 of this Form 10-K. 
+
+##TABLE_START 
+
+Goldman Sachs 2023 Form 10-K ##TABLE_END
+
+THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES 
+
+Management&#8217;s Discussion and Analysis 
+
+These statements may relate to, among other things, (i) our future plans and results, including our target return on average common shareholders&#8217; equity (ROE), return on average tangible common shareholders&#8217; equity (ROTE), efficiency ratio, Common Equity Tier 1 (CET1) capital ratio and firmwide assets under supervision (AUS) inflows, and how they can be achieved, (ii) trends in or growth opportunities for our businesses, including the timing, costs, profitability, benefits and other aspects of business and strategic initiatives and their impact on our efficiency ratio, (iii) our level of future compensation expense, including as a percentage of both operating expenses and net revenues, net of provision for credit losses, (iv) our Investment banking fees backlog and future results, (v) our expected interest income and interest expense, (vi) our expense savings and strategic locations initiatives, (vii) expenses we may incur, including future litigation expense, (viii) the projected growth of our deposits and other funding, asset liability management and funding strategies and related interest expense savings, (ix) our business initiatives, including transaction banking, (x) our planned 2024 benchmark debt issuances, (xi) the amount, composition and location of global core liquid assets (GCLA) we expect to hold, (xii) our credit exposures, (xiii) our expected provision for credit losses, (xiv) the adequacy of our allowance for credit losses, (xv) the narrowing of our consumer business, (xvi) the objectives and effectiveness of our business continuity planning (BCP), information security program, risk management and liquidity policies, (xvii) our resolution plan and strategy and their implications for stakeholders, (xviii) the design and effectiveness of our resolution capital and liquidity models and triggers and alerts framework, (xix) the results of stress tests, the effect of changes to regulations, and our future status, activities or reporting under banking and financial regulation, (xx) our expected tax rate, (xxi) the future state of our liquidity and regulatory capital ratios, and our prospective capital distributions (including dividends and repurchases), (xxii) our expected stress capital buffer (SCB) and global systemically important bank ( G-SIB) surcharge, (xxiii) legal proceedings, governmental investigations or other contingencies, (xxiv) the asset recovery guarantee and our remediation activities related to our 1Malaysia Development Berhad settlements, (xxv) the effectiveness of our management of our human capital, including our diversity goals, (xxvi) our sustainability and carbon neutrality targets and goals, (xxvii) future inflation, (xxviii) the impact of Russia&#8217;s invasion of Ukraine and related sanctions and other developments on our business, results and financial position, (xxix) our ability to sell, and the terms of any proposed sales of, Asset &#38; Wealth Management historical principal investments, and pending sale of GreenSky Holdings, LLC (GreenSky), (xxx) an agreement with General Motors (GM) regarding a process to transition their credit card program to another issuer to be selected by GM, (xxxi) the impact of the conflicts in the Middle East, (xxxii) our ability to manage our commercial real estate exposures, (xxxiii) the profitability of Platform Solutions, and (xxxiv) the effectiveness of our cybersecurity risk management process. 
+
+Executive Overview 
+
+We generated net earnings of $8.52 billion for 2023, compared with $11.26 billion for 2022. Diluted earnings per common share (EPS) was $22.87 for 2023, compared with $30.06 for 2022. ROE was 7.5% for 2023, compared with 10.2% for 2022. Book value per common share was $313.56 as of December 2023, 3.3% higher compared with December 2022. 
+
+Net revenues were $46.25 billion for 2023, 2% lower than 2022, reflecting lower net revenues in Global Banking &#38; Markets, largely offset by higher net revenues in Platform Solutions and Asset &#38; Wealth Management. The decrease in net revenues in Global Banking &#38; Markets, compared with a strong prior year, reflected lower net revenues in Fixed Income, Currency and Commodities (FICC) and lower Investment banking fees. The increase in net revenues in Platform Solutions reflected significantly higher net revenues in Consumer platforms. The increase in net revenues in Asset &#38; Wealth Management primarily reflected higher Management and other fees. 
+
+Provision for credit losses was $1.03 billion for 2023, compared with $2.72 billion for 2022. Provisions for 2023 reflected net provisions related to both the credit card portfolio (primarily driven by net charge-offs) and wholesale loans (primarily driven by impairments). These net provisions were partially offset by reserve reductions of $637 million related to the transfer of the GreenSky installment loan portfolio to held for sale and $442 million related to the sale of substantially all of the Marcus by Goldman Sachs (Marcus) loans portfolio. Provisions for 2022 primarily reflected growth in the credit card portfolio, the impact of macroeconomic and geopolitical concerns and net charge-offs. 
+
+Operating expenses were $34.49 billion for 2023, 11% higher than 2022, primarily due to significantly higher impairments related to commercial real estate included in consolidated investment entities (CIEs) ($1.46 billion recognized in 2023), a write-down of identifiable intangible assets of $506 million related to GreenSky and an impairment of goodwill of $504 million related to Consumer platforms, as well as the FDIC special assessment fee of $529 million. Our efficiency ratio (total operating expenses divided by total net revenues) was 74.6% for 2023, compared with 65.8% for 2022. 
+
+During 2023, we returned a total of $9.39 billion of capital to common shareholders, including $5.80 billion of common share repurchases and $3.59 billion of common stock dividends. As of December 2023, our CET1 capital ratio was 14.4% under the Standardized Capital Rules and 14.9% under the Advanced Capital Rules. See Note 20 to the consolidated financial statements for further information about our capital ratios. 
+
+##TABLE_START Goldman Sachs 2023 Form 10-K 63 
+
+##TABLE_END
+
+
+
+Instruction: 
+Dive into a comprehensive evaluation of the company's cash flow for the latest fiscal year, focusing on cash inflows 
+and outflows across operating, investing, and financing activities. Examine the operational cash flow to assess the 
+core business profitability, scrutinize investing activities for insights into capital expenditures and investments, 
+and review financing activities to understand debt, equity movements, and dividend policies. Compare these cash movements 
+to prior periods to discern trends, sustainability, and liquidity risks. Conclude with an informed analysis of the company's 
+cash management effectiveness, liquidity position, and potential for future growth or financial challenges in a single paragraph. 
+Less than 130 words.

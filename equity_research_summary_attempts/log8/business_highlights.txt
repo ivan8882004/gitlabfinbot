@@ -1,0 +1,10 @@
+Resource: Business summary:
+
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations:
+
+
+Instruction: 
+According to the given information, describe the performance highlights per business of the company. 
+Each business description should contain one sentence of a summarization and one sentence of explanation. 
+Less than 130 words.
